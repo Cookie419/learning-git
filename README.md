@@ -4,3 +4,4 @@ function getPerson(name, surname) {
    return name + "<< >>" + surname; 
 }
 Added new symbols to work.
+Completely done with this

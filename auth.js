@@ -7,3 +7,4 @@ function authenticate(login, password) {
        return 'Login is not correct ' ;
     }
 }
+done.
