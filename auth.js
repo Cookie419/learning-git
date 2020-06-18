@@ -7,4 +7,4 @@ function authenticate(login, password) {
        return 'Login is not correct ' ;
     }
 }
-Wording as changed welcome instead of login.
+Wording was changed welcome instead of login.
