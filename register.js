@@ -2,4 +2,4 @@ function register(login,password) {
     return'Account:' +' '+ login + ' ' + password + '' + 'was created';
 }
 
-done
+Nothing changed in this file.
