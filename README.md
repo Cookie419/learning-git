@@ -9,3 +9,4 @@ Completely done with this
 =======
 done.
 >>>>>>> hotfix/1.1.1
+Merge pull request #6 from Cookie419/hotfix/1.1.1
