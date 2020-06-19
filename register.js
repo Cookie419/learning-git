@@ -3,3 +3,4 @@ function register(login,password) {
 }
 Added
 done.
+merge pull request #4 from Cookie/419/hotfix/1.1.1
