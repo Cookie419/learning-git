@@ -4,7 +4,7 @@ function deductNumber(a, b) {
 console. git.
 needs to be pushed to github.
 
-function getPerson(name, surname) {
-	return name + "  "  + surname;
+
 }
 Modified fx. getPerson somehow got on this file.Error.
+Re-Modified file removed getPerson line.
