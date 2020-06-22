@@ -7,4 +7,4 @@ needs to be pushed to github.
 function getPerson(name, surname) {
 	return name + "  "  + surname;
 }
-
+done by Cookie
