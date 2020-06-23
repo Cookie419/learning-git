@@ -1,0 +1,6 @@
+{
+    "git.autofetch": true,
+    "files.exclude": {
+        "Git Bash C:\\Program Files\\Git\\bin\\bash.exe": true
+    }
+}
