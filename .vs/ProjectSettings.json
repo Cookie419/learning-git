@@ -1,4 +1,4 @@
    {
   "CurrentProjectSetting":alias npp = 'notepad ++'
-   
-}
+   alias 'code' = Visual Studio "Code."
+} Added Visual Studio Code after once deleting it.
