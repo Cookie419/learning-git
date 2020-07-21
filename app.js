@@ -1,8 +1,10 @@
 function deductNumber(a, b) {
 	return a - b;
 }
-console. git
-needs to be pushed to github
+
+
+console. git.
+
 
 function getPerson(name, surname) {
 	return name + "  "  + surname;
